@@ -4,7 +4,7 @@
   "description": "You can use the [editor on GitHub](https://github.com/github-tester1/WebDev/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d WebDev"
   },
   "repository": {
     "type": "git",
